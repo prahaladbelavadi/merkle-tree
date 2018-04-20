@@ -1,0 +1,26 @@
+{
+  "name": "merkle-tree",
+  "version": "1.0.0",
+  "description": "A node js implementation of a merkle tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/merkle-tree.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crypto"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/merkle-tree/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/merkle-tree#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
